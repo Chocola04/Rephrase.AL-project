@@ -41,7 +41,7 @@ async function handler(req,res){
                 kind: 'Spokesperson',
                 spokespersonVideo: {
                   model: 'george_retrain_nt',
-                  voiceId: 'MARCUS_G__004',
+                  voiceId: 'en-GB-Wavenet-B__007',
                   output_params: {
                     video: {
                       crop: {preset: 'MS'},
